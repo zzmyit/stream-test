@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "stra"         # 用户名
 UUID = "277cc408-95e1-40f2-9caf-caa739702269"                     # UUID，留空则自动生成
-PORT = 8001                   # Vmess端口，留空或0则自动生成
+PORT = 22088                   # Vmess端口，留空或0则自动生成
 DOMAIN = "stra.air.now.cc"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiOGY2ZmZiODM1MzVmYmQ2Yjg5M2Y5ODY3NjJmZjQwMjQiLCJ0IjoiNzZkMzAwMTctZjg5YS00ZjQ4LThmZTEtMjkzNTQxMWUzMTcyIiwicyI6IlptWTFNREpoTnpjdE9UUTFOUzAwWkRCakxXSTFabVl0Wm1KaVlqSXhOVE15Tm1RdyJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
